@@ -4,7 +4,7 @@ In the process of preparing to help teach a course on game development for [Blac
 
 ## What you need to know
 
-* You are free to use this art! These images are offered under an [MIT license](https://github.com/segdeha/black-girl-hero-game-sprite/blob/master/LICENSE), so go to town!
+* **You are free to use this art!** These images are offered under an [MIT license](https://github.com/segdeha/black-girl-hero-game-sprite/blob/master/LICENSE), so go to town!
 * There is a hero *(she needs a name!)* and a baddie both with and without grounding shadows.
 * The hero is 69x92px. The baddie is 59x68px.
 * The hero has 4 states: left, down, right, up. The baddie has 2 states: eye open, eye closed.
