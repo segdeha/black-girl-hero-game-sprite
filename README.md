@@ -13,8 +13,8 @@ Here is a demo with the art in place in a [simple game](http://segdeha.com/bgc/m
 
 ## Hero
 
-![Baddie with grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/black-girl-hero-shadow.png) ![Baddie without grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/black-girl-hero.png)
+![Hero without grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/black-girl-hero.png) ![Hero with grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/black-girl-hero-shadow.png)
 
 ## Baddie
 
-![Baddie with grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/baddie-shadow.png) ![Baddie without grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/baddie.png)
+![Baddie without grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/baddie.png) ![Baddie with grounding shadow](https://raw.githubusercontent.com/segdeha/black-girl-hero-game-sprite/master/sprites/baddie-shadow.png)
