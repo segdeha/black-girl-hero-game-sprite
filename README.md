@@ -9,7 +9,7 @@ In the process of preparing to help teach a course on game development for [Blac
 * The hero is 69x92px. The baddie is 59x68px.
 * The hero has 4 states: left, down, right, up. The baddie has 2 states: eye open, eye closed.
 
-Here is a demo with the art in place in a [simple game](http://segdeha.com/bgc/mygame/). See the characters with grounding shadows by appending [?shadows](http://segdeha.com/bgc/mygame/?shadows) to the URL.
+Here is a demo with the art in place in a [simple game](http://segdeha.com/bgc/mygame/) based on work by [Rachel Bazelais](https://twitter.com/Popular_Pixels). See the characters with grounding shadows by appending [?shadows](http://segdeha.com/bgc/mygame/?shadows) to the URL.
 
 ## Hero
 
